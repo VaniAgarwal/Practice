@@ -6,7 +6,11 @@ import org.mockito.Mockito;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.doReturn;
 import static org.mockito.Mockito.mock;
+<<<<<<< HEAD
 //Our Dummy project file
+=======
+//ANother branch2
+>>>>>>> branch2
 class MonopolyTest {
     Monopoly player = new Monopoly(0);
 
